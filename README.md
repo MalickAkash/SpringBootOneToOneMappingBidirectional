@@ -1,1 +1,1 @@
-# SpringBootOneToOneMappingBidirectional
+# springBootOneToOneMappingBidirectional
